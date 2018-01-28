@@ -7,3 +7,5 @@ Tugas Exercise 3
 * ## [Latihan 2](https://damaradani.github.io/Latihan%20P2/index.html)
 
 * ## [Latihan 3](https://damaradani.github.io/Latihan%20P3/index.html)
+
+Test Push Pull
