@@ -8,4 +8,3 @@ Tugas Exercise 3
 
 * ## [Latihan 3](https://damaradani.github.io/Latihan%20P3/index.html)
 
-Test Push Pull
